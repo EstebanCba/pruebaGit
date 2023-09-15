@@ -2,5 +2,5 @@ Crear archivo en carpeta (archivo.txt)
 
 en GitHub:
 1- git add
-2- git commit "primer commit"
+2- git commit -m "primer commit"
 3- git push -u origin master
